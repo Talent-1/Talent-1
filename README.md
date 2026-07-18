@@ -1,6 +1,6 @@
 # 👋🏾 Hi, I’m Azikiwe Chibuzo Hillary
 
-I’m a **Junior Frontend Developer** passionate about building responsive and user-focused web applications under my personal brand, **TaleCoded**.  
+I’m a **Frontend Developer** passionate about building responsive and user-focused web applications under my personal brand, **HillCity**.  
 I enjoy turning ideas into scalable, functional, and visually engaging solutions using **HTML**, **CSS**, **JavaScript**, and **React**.  
 
 🌱 **Currently Learning:** React, API integration, and full-stack development fundamentals  
