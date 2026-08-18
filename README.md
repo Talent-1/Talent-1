@@ -1,42 +1,37 @@
-# 👋🏾 Hi, I’m Azikiwe Chibuzo Hillary
+# Hi, I'm Azikiwe Chibuzo Hillary
 
-I’m a **Frontend Developer** passionate about building responsive and user-focused web applications under my personal brand, **HillCity**.  
-I enjoy turning ideas into scalable, functional, and visually engaging solutions using **HTML**, **CSS**, **JavaScript**, and **React**.  
+**Software Engineer | Full-Stack Developer | EdTech Builder**
 
-🌱 **Currently Learning:** React, API integration, and full-stack development fundamentals  
-💡 **Interested In:** Open-source projects, team collaborations, and real-world software solutions  
-🎯 **Goal:** To become a well-rounded **Full-Stack Engineer** capable of designing and delivering impactful web systems  
+I build practical web applications that solve real problems in education.  
+Creator of **SmartSchoolHub** — a School Management & Computer-Based Testing (CBT) platform currently serving **3+ schools**.
 
----
+### Tech Stack
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend / Database:** Supabase, PostgreSQL, Authentication, Real-time features
+- **Tools:** Git, Vercel, Component-driven development
 
-### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Version Control:** Git, GitHub  
-- **Tools:** VS Code, Figma, Chrome DevTools  
-- **Currently Exploring:** Node.js, Express.js  
+### Featured Projects
+- **[SmartSchoolHub](https://hill-city-tau.vercel.app)** — Full school management + CBT platform (live in 3+ schools)
+- **Custom Result Computing Engine** — Automated terminal result generation for multiple campuses
+- Exam / CBT systems built for City Group of Schools
 
----
+### Background
+- B.Sc. Mathematics and Computer Science (NOUN, 2024)
+- 6+ years in educational leadership (currently Vice Principal – Academics & Head of ICT)
+- Co-founded Mathletes Club (50+ students)
 
-### 🧠 Projects
-- 🧾 **[Exam Platform – City Group of Schools, Ogidi](#)**  
-  A full Computer-Based Testing (CBT) platform enabling school-based online assessments.
+### Certifications
+- Frontend Web Development — TechyJaunt (2024)
+- AI Starter Kit — ALX (2025)
+- Software Engineering Program — ALX (In Progress)
 
-- 💻 **Portfolio Site – TaleCoded**  
-  My personal portfolio showcasing my projects, achievements, and growth journey.  
+### Let's Connect
+- **Email:** talecoded@gmail.com
+- **LinkedIn:** [linkedin.com/in/azikiwe-chibuzo-9857a1262](https://www.linkedin.com/in/azikiwe-chibuzo-9857a1262)
+- **Portfolio:** [hill-city-tau.vercel.app](https://hill-city-tau.vercel.app)
+- **Phone:** +234 810 734 6481
 
----
-
-### 🏆 Certifications
-- **Junior Frontend Developer Certificate – Techyjuant**  
-- **AI Starter Kit – ALX Africa**  
-- **Professional Foundations – ALX Africa**
-
----
-
-### 📫 Let’s Connect
-- **Email:** [talecoded@gmail.com](mailto:talecoded@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/azikiwe-chibuzo-9857a1262](https://linkedin.com/in/azikiwe-chibuzo-9857a1262)  
-- **WhatsApp:** +234 810 734 6461  
+*"Code to create. Learn to grow. Build to impact."*  
 
 ---
 
