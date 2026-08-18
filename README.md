@@ -11,7 +11,7 @@ Creator of **SmartSchoolHub** — a School Management & Computer-Based Testing (
 - **Tools:** Git, Vercel, Component-driven development
 
 ### Featured Projects
-- **[SmartSchoolHub](https://hill-city-tau.vercel.app)** — Full school management + CBT platform (live in 3+ schools)
+- **[SmartSchoolHub](https://schoolmanagementhub-zbab.vercel.app)** — Full school management + CBT platform (live in 3+ schools)
 - **Custom Result Computing Engine** — Automated terminal result generation for multiple campuses
 - Exam / CBT systems built for City Group of Schools
 
