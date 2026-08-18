@@ -32,7 +32,4 @@ Creator of **SmartSchoolHub** — a School Management & Computer-Based Testing (
 - **Phone:** +234 810 734 6481
 
 *"Code to create. Learn to grow. Build to impact."*  
-
 ---
-
-⭐ *“Code to create. Learn to grow. Build to impact.”*
